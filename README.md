@@ -1,8 +1,8 @@
-# Vantage Typst
+# My Resume
 
-An ATS friendly simple Typst CV template, inspired by [alta-typst by George Honeywood](https://github.com/GeorgeHoneywood/alta-typst). See [`example.pdf`](example.pdf) for the rendered PDF output.
+This repository contains my personal resume built using Typst, based on the [Vantage Typst](https://github.com/sardorml/vantage-typst) template. See [`resume.pdf`](resume.pdf) for the rendered PDF output.
 
-![Preview](screenshot.png)
+![Preview](resume.png)
 
 ## Features
 
@@ -19,8 +19,8 @@ An ATS friendly simple Typst CV template, inspired by [alta-typst by George Hone
 2. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/sardorml/vantage-typst.git
-   cd vantage-typst
+   git clone https://github.com/Patrix726/resume.git
+   cd resume
    ```
 
 3. **Run Typst**:
@@ -28,14 +28,14 @@ An ATS friendly simple Typst CV template, inspired by [alta-typst by George Hone
    Use the following command to render your CV:
 
    ```bash
-   typst compile example.typ
+   typst compile resume.typ
    ```
 
    This will generate a PDF output in the same directory.
 
 4. **Edit your CV**:
 
-   Open the `example.typ` file in your preferred text editor to customize the layout.
+   Open the `resume.typ` file in your preferred text editor to customize the layout.
 
 ### Configuration
 
@@ -71,7 +71,7 @@ Icons are from Lucide Icons and are subject to [their terms](https://lucide.dev/
 
 ## Acknowledgments
 
-- Inspired by the work of [George Honeywood](https://github.com/GeorgeHoneywood/alta-typst).
+- Based on the [Vantage Typst](https://github.com/sardorml/vantage-typst) template, which is inspired by [alta-typst by George Honeywood](https://github.com/GeorgeHoneywood/alta-typst).
 - Thanks to [Lucide Icons](https://lucide.dev/icons/) for providing the icon library.
 
 For any questions or contributions, feel free to open an issue or submit a pull request!
