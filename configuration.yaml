@@ -16,77 +16,88 @@ contacts:
 
 position: Software Engineer
 
-tagline: Software engineer with 5 years of experience and a strong foundation in computer science, skilled in developing software for innovative industries. Proficient in JavaScript/TypeScript, Python, and C/C++, with a solid understanding of system architecture and design principles.
+tagline: "Software engineer with 4+ years of experience and a strong foundation in computer science and software engineering, skilled in developing software for innovative industries. Proficient in JavaScript/TypeScript, Python, Java, and Dart, with a solid understanding of system architecture and design principles."
 
 jobs:
-  - position: Lead Software Developer
+  - position: Full Stack Developer
     company:
-      name: Quantum Innovations
-      link: https://quantuminnovations.com/
+      name: Yourstech Academy
+      link: https://yourstech.academy/
     product:
-      name: QuantumLeap
-      link: https://quantumleap.com
+      name: Yourstech Academy
+      link: https://yourstech.academy
     description:
-      - Spearheaded the development of a cutting-edge quantum computing simulator, optimizing algorithms for performance.
-      - Collaborated with a team to create intuitive user interfaces that simplified complex scientific data for end-users.
-    from: "2023 Mar."
-    to: "2024 Jul."
+      - Built an eLearning platform similar to Udacity, enabling users to purchase courses.
+      - Managed database schema and backend development, with contributions to the frontend.
+      - Integrated Vimeo for seamless video streaming.
+      - Deployed the application to a VPS for production.
+    from: "Jun. 2025"
+    to: "Dec. 2025"
     tags:
-      - Quantum Computing
-      - Algorithm Optimization
-      - UI Design
+      - Next.js
+      - Frontend & Backend
+      - Third-party integration
     location: Remote
   - position: Backend Developer
     company:
-      name: CloudSync Solutions
-      link: https://cloudsyncsolutions.com/
+      name: Ecybernest
+      link: https://ecybernest.com/
     product:
-      name: SyncManager
-      link: https://syncmanager.com
+      name: Academy Nest
+      link: https://academy-nest.com
     description:
-      - Built scalable backend services for SyncManager, ensuring high availability and performance for cloud synchronization.
+      - Built scalable backend services for Academy Nest, ensuring high availability and performance.
       - Designed and implemented RESTful APIs to facilitate data exchange between clients and servers.
-    from: "2024 Aug."
-    to: "present"
+      - Integrated live video streaming for teachers to educate students.
+    from: "Nov. 2024"
+    to: "Mar. 2025"
     tags:
       - API Development
-      - Cloud Computing
-      - Microservices
+      - Query optimization
+      - Zoom integration
+      - Express.js
+      - Socket.io
     location: Remote
-  - position: DevOps Engineer
+  - position: Full Stack Developer (Intern)
     company:
-      name: AutoTech Dynamics
-      link: https://autotechdynamics.com/
+      name: EagleLion System Technology
+      link: https://www.eaglelionsystems.com/
     product:
-      name: AutoPilot
-      link: https://autopilot.com
+      name: Electronic Medical Record System
+      link: https://emr-system-lake.vercel.app
     description:
-      - Streamlined CI/CD pipelines for the AutoPilot system, enhancing deployment frequency and reliability.
-      - Monitored system performance and implemented improvements for optimized infrastructure.
+      - Implemented role-based access for doctors, patients, receptionists, and admins
+      - Built features for patient records management, appointment scheduling, and invoicing
+      - Designed secure authentication and dynamic dashboards for different user roles
+      - Optimized data handling and system performance to improve hospital
+        workflows
     from: "2022 Feb."
     to: "2023 Dec."
     tags:
-      - DevOps
-      - CI/CD
-      - Infrastructure Management
-    location: Denver, USA
-  - position: Game Developer
+      - Next.js
+      - Prisma
+      - Testing
+    location: Remote
+  - position: Full Stack Developer (Intern) - Network Engineering Department
     company:
-      name: PixelForge Studios
-      link: "https://pixelforgestudios.com/"
+      name: Information Network Security Agency
+      link: https://www.insa.gov.et/
     product:
-      name: Realm of Adventure
-      link: https://realmofadventure.com
+      name: Internal Tool (Web based network dashboard)
+      link: "#"
     description:
-      - Developed engaging gameplay mechanics and interactive environments using Unity and C#.
-      - Collaborated with artists to ensure visual consistency and high-quality game experiences.
-    from: "2021 Jan."
-    to: "2022 Dec."
+      - Built a web-based dashboard for real-time visualization of network topology
+      - Integrated and updated the L2Switch module to make it compatible with
+        the latest OpenDaylight version, utilizing a previously unmaintained
+        open-source project.
+      - Designed and tested simulated SDN environments using Mininet to validate controller behavior
+    from: "Jun. 2025"
+    to: "Sep. 2025"
     tags:
-      - Game Development
-      - Unity
-      - C#
-    location: Los Angeles, USA
+      - Opendaylight
+      - React.js
+      - Express
+    location: Wollo Sefer, Addis Ababa
 
 objective: Seeking to advance my skills and build a strong career with a company that values innovation and creativity.
 
@@ -121,9 +132,11 @@ skills:
   - JavaScript
   - Python
   - Java
+  - Dart
   - React
   - Next.js
   - Tailwind CSS
+  - Flutter
   - Node.js
   - Express
   - SQL
