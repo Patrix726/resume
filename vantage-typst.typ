@@ -1,4 +1,4 @@
-#let primary_colour = rgb("#3730a3")
+#let primary_colour = rgb("#000000")
 #let link_colour = rgb("#12348e")
 
 #let icon(name, shift: 1.5pt) = {
@@ -94,7 +94,7 @@
     title: name + "'s CV",
     author: name,
   )
-  set text(9.8pt, font: "PT Sans")
+  // set text(9.8pt, font: "Noto Serif")
   set page(
     margin: (x: 1.2cm, y: 1.2cm),
   )

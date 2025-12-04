@@ -1,18 +1,18 @@
 contacts:
-  name: John Doe
+  name: Nebil Rahmeto
   title: Software Engineer
-  email: johndoe@example.com
-  address: "City, Country"
-  location: Country
+  email: nebilrahmeto2004@gmail.com
+  address: "Addis Ababa, Ethiopia"
+  location: Ethiopia
   linkedin:
-    url: https://www.linkedin.com/in/johndoe/
-    displayText: johndoe
+    url: https://www.linkedin.com/in/nebilrahmeto/
+    displayText: nebilrahmeto
   github:
-    url: https://github.com/johndoe/
-    displayText: "@johndoe"
+    url: https://github.com/patrix726/
+    displayText: "@patrix726"
   website:
-    url: https://johndoe.com
-    displayText: www.johndoe.com
+    url: https://nebil.work
+    displayText: nebil.work
 
 position: Software Engineer
 
@@ -87,106 +87,60 @@ jobs:
       - Unity
       - C#
     location: Los Angeles, USA
-  - position: Data Engineer
-    company:
-      name: Insight Analytics
-      link: "https://insightanalytics.com/"
-    product:
-      name: DataVision
-      link: https://datavision.com
-    description:
-      - Engineered data pipelines to aggregate and process large datasets for analytics using Python and Apache Spark.
-      - Developed dashboards for real-time data visualization and business intelligence.
-    from: "2020 Jan."
-    to: "2021 Dec."
-    tags:
-      - Data Engineering
-      - Python
-      - Data Visualization
-    location: Chicago, USA
-  - position: Quality Assurance Intern
-    company:
-      name: CodeFix Labs
-      link: "https://codefixlabs.com/"
-    product:
-      name: TestSuite Pro
-      link: https://testsuitepro.com
-    description:
-      - Assisted in testing software applications for functionality and usability, reporting bugs and feedback.
-      - Gained experience in automated testing frameworks to improve product quality.
-    from: "2019 Jan."
-    to: "2019 Dec."
-    tags:
-      - Quality Assurance
-      - Testing
-      - Automation
-    location: Austin, USA
 
 objective: Seeking to advance my skills and build a strong career with a company that values innovation and creativity.
 
 education:
   - place:
-      name: Example University
-      link: "http://exampleuniversity.edu"
+      name: Adama Science and Technology University
+      link: "https://www.astu.edu.et"
     degree: "B.Sc."
-    major: Computer Science
-    track: Computer Science
-    from: "2015"
-    to: "2019"
-    location: City, Country
-  - place:
-      name: Technical College
-      link: ""
-    degree: Diploma
-    major: IT Specialist
-    track: IT Specialist
-    from: "2012"
-    to: "2015"
-    location: City, Country
+    major: Software Engineering
+    track: Software Engineering
+    from: "2022"
+    to: "2026"
+    location: Adama, Ethiopia
 
-technical_expertise:
-  - name: Kotlin
-    level: 4
-  - name: Angular
-    level: 5
-  - name: Ruby on Rails
-    level: 5
-  - name: Flutter
-    level: 4
-  - name: Go
-    level: 4
-  - name: Subversion
-    level: 5
-
+# technical_expertise:
+#   - name: Kotlin
+#     level: 4
+#   - name: Angular
+#     level: 5
+#   - name: Ruby on Rails
+#     level: 5
+#   - name: Flutter
+#     level: 4
+#   - name: Go
+#     level: 4
+#   - name: Subversion
+#     level: 5
+#
 skills:
+  - HTML/CSS
+  - Typescript
   - JavaScript
   - Python
   - Java
   - React
+  - Next.js
+  - Tailwind CSS
   - Node.js
   - Express
-  - MongoDB
-  - AWS
+  - SQL
   - Docker
   - Git
-  - HTML/CSS
-  - SQL
-  - Material UI
-  - Tailwind CSS
+  - Linux
 
-methodology:
-  - Lean
-  - Kanban
-  - Design Thinking
-  - Test-Driven Development
-  - Pair Programming
-
+# methodology:
+#   - Lean
+#   - Kanban
+#   - Design Thinking
+#   - Test-Driven Development
+#   - Pair Programming
+#
 tools:
   - GitHub
-  - IntelliJ IDEA
-  - Asana
-  - Slack
-  - Adobe XD
+  - Figma
   - Postman
 
 achievements:
