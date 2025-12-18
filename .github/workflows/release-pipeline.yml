@@ -1,6 +1,6 @@
 name: Resume Release Pipeline
 
-on: [push, workflow]
+on: [push, workflow_dispatch]
 
 permissions:
   contents: write
