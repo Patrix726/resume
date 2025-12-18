@@ -21,6 +21,24 @@ tagline: "Software engineer with 4+ years of experience and a strong foundation 
 jobs:
   - position: Full Stack Developer
     company:
+      name: ProspexAI, Inc.
+      link: "#"
+    product:
+      name: ""
+      link: "#"
+    description:
+      - Contributed to multiple real-world full stack projects.
+      - Managed database schema and backend development using supabase.
+      - Implemented UI/UX designs into a user-friendly, accessible and responsive pages.
+      - Handled deployment of applications into production.
+    from: "Mar. 2025"
+    to: "Present"
+    tags:
+      - Next.js
+      - Supabase
+    location: Remote
+  - position: Full Stack Developer
+    company:
       name: Yourstech Academy
       link: https://yourstech.academy/
     product:
@@ -35,6 +53,7 @@ jobs:
     to: "Dec. 2025"
     tags:
       - Next.js
+      - Express
       - Frontend & Backend
       - Third-party integration
     location: Remote
@@ -66,11 +85,7 @@ jobs:
       name: Electronic Medical Record System
       link: https://emr-system-lake.vercel.app
     description:
-      - Implemented role-based access for doctors, patients, receptionists, and admins
-      - Built features for patient records management, appointment scheduling, and invoicing
-      - Designed secure authentication and dynamic dashboards for different user roles
-      - Optimized data handling and system performance to improve hospital
-        workflows
+      - Implemented role-based web app for hospital management for doctors, patients, receptionists, and admins
     from: "2022 Feb."
     to: "2023 Dec."
     tags:
@@ -87,10 +102,8 @@ jobs:
       link: "#"
     description:
       - Built a web-based dashboard for real-time visualization of network topology
-      - Integrated and updated the L2Switch module to make it compatible with
-        the latest OpenDaylight version, utilizing a previously unmaintained
-        open-source project.
-      - Designed and tested simulated SDN environments using Mininet to validate controller behavior
+      - Utilized and integrated Opendaylight's open-source L2Switch module with
+        the latest version
     from: "Jun. 2025"
     to: "Sep. 2025"
     tags:
@@ -155,7 +168,6 @@ tools:
   - GitHub
   - Figma
   - Postman
-
-achievements:
-  - name: "Best Project Award"
-    description: Developed an innovative solution for community service management and received recognition from the university.
+# achievements:
+#   - name: "Best Project Award"
+#     description: Developed an innovative solution for community service management and received recognition from the university.

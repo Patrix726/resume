@@ -70,13 +70,13 @@
       • #tool
     ]
 
-    == Achievements/Certifications
-
-    #for achievement in configuration.achievements [
-      === #achievement.name
-      \
-      #achievement.description
-    ]
+    // == Achievements/Certifications
+    //
+    // #for achievement in configuration.achievements [
+    //   === #achievement.name
+    //   \
+    //   #achievement.description
+    // ]
 
   ]
 )

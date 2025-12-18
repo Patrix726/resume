@@ -99,7 +99,7 @@
     margin: (x: 1.2cm, y: 1.2cm),
   )
 
-  show heading.where(level: 1) : it => text(16pt,[#{it.body} #v(1pt)])
+  show heading.where(level: 1) : it => text(16pt,[#{it.body} #v(-8pt)])
 
   show heading.where(
     level: 2,
